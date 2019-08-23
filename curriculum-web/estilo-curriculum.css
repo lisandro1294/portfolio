@@ -1,0 +1,97 @@
+
+body{
+    margin: 5%;
+    scroll-behavior: smooth;
+    background-color: white;
+}
+
+#insta{
+    width: 5%;
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.150);
+    border-radius: 300px;
+    float: right;
+}
+
+#face{
+    border-radius: 300px;
+    width: 17%;
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.150);
+    float: right;
+}
+
+#li{
+    font-family:'Montserrat', sans-serif;
+    font-size: 420%;
+    text-align: justify;
+    letter-spacing: 20px;
+    color:black;
+    padding: 3%;
+    border-radius: 12px;
+    margin-right: 45%;
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.150);
+    font-weight: lighter;
+    background-color: rgba(245, 245, 245, 0.507);
+
+
+
+}
+#L{
+    font-size: 400%;
+    color: blueviolet;
+}
+
+#personal{
+    font-family:'Montserrat', sans-serif;
+    margin-bottom: 30%;
+    margin-top: 50%;
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.150);
+    padding: 2%;
+    background-color: rgba(245, 245, 245, 0.507);
+    float: none;
+}
+
+#education{
+    font-family:'Montserrat', sans-serif;
+    margin-bottom: 4%;
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.150);
+    padding: 2%;
+    background-color: rgba(245, 245, 245, 0.507);
+}
+
+ul{
+    list-style: none;
+}
+
+.list-name{
+    font-family:'Montserrat', sans-serif;
+    font-size: 300%;
+    letter-spacing: 60pt;
+    font-weight: lighter;
+    text-align: center;
+    margin-bottom: 5%;
+    color: blueviolet;
+
+}
+.a-personal{
+    font-family:'Montserrat', sans-serif;
+    font-size: 100%;
+    letter-spacing: 6pt;
+    font-weight: lighter;
+    text-align:left;
+    line-height: 60pt;
+}
+
+a{
+    color: blueviolet;
+    font-size: large;
+}
+strong{
+    font-size: large;
+    font-weight: bold;
+}
+#gallery{
+    font-family:'Montserrat', sans-serif;
+    margin-top: 10%;
+    font-size: 500%;
+    letter-spacing: 20pt;
+}
