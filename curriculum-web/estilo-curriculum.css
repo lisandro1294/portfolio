@@ -36,7 +36,7 @@ body{
 
 }
 #L{
-    font-size: 400%;
+    font-size: 300%;
     color: blueviolet;
 }
 
@@ -48,6 +48,7 @@ body{
     padding: 2%;
     background-color: rgba(245, 245, 245, 0.507);
     float: none;
+    border-radius: 12px;
 }
 
 #education{
@@ -56,6 +57,7 @@ body{
     box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.150);
     padding: 2%;
     background-color: rgba(245, 245, 245, 0.507);
+    border-radius: 12px;
 }
 
 ul{
